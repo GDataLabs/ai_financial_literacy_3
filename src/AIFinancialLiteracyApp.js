@@ -1258,7 +1258,7 @@ const ClosingModule = ({ pledgeData, setPledgeData, finalWords, setFinalWords })
         <h4 className="text-lg font-bold mb-4 text-slate-800 text-center">How will you work with AI to help people?</h4>
         <div className="relative w-full h-96 rounded-xl overflow-hidden">
           <iframe 
-            src="/earth.html"
+            src="./earth.html"
             className="w-full h-full border-0"
             title="Interactive Earth - Your Impact"
           />
